@@ -2,3 +2,10 @@ a {
 	color:grey;
 	font-weight: bold;
 }
+
+.navbar-default {
+    background-color: #EDBBB4;
+    border-color: #000;
+}
+.navbar-default .navbar-brand {
+    color: #fff;
